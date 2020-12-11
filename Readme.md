@@ -6,15 +6,15 @@
 
 
 ## Developing Process
-### Step1. Data Gathering
+#### Step1. Data Gathering
 https://data.world/data-society/global-climate-change-data
 Get global average temperature data by month and country average temperature data by month 
 
-### Step2. Data Analysis - Global Annual Temperature Change and Monthly Temperature Change
+#### Step2. Data Analysis - Global Annual Temperature Change and Monthly Temperature Change
 Clean and analyze global temperature data using Pandas and plot the line using Plotly
 
-### Step3. Data Analysis - Country Level Temperature Change
+#### Step3. Data Analysis - Country Level Temperature Change
 Clean and analyze country level temperature data using Pandas and plot the map using Plotly Choropleth Map
 
-### Step4. Build App
+#### Step4. Build App
 Build global warming app and fit the figure into the app in the same style
