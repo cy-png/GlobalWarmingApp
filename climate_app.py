@@ -34,12 +34,12 @@ app.layout = html.Div(
         html.Div(
             id="header",
             children=[
-                html.Img(id="logo", src=app.get_asset_url("global_warming.png")),
+#                html.Img(id="logo", src=app.get_asset_url("global_warming.png")),
                 html.H4(children="Does 'global warming' mean it’s warming everywhere?"),
                 html.P(
                     id="description",
                     children="No, 'global warming' means Earth's average annual air temperature is rising, but not necessarily in every single location during all seasons across the globe. "
-                             "The figure on the left shows the temperature changes in various countries, while the picture on the right shows the change of global average temperature level",
+                             "However, 'global warmning' is the case in most countries. We should be aware that global warming is happening everywhere, and everybody in the world has the responsibility to pay attention to it. ",
                 ),
             ],
         ),
