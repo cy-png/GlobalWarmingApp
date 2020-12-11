@@ -1,5 +1,5 @@
 ## For users
-1. In the left part, users could choose the year to see the temperature of their interet country in the past 140 years.
+1. In the left part, users could choose the year to see the temperature of their intereting country in the past 140 years.
 2. In the right part, users could choose the month to see the temperature change from 1865 to 2015(150years), they could also choose to show the global annual average temperature.
 3. When comparing two figures together, we can draw the conclusion that not all the countries, but it is the case in most countries. We should be aware that global warming is happening everywhere, and everybody in the world has the responsibility to pay attention to it.
 
